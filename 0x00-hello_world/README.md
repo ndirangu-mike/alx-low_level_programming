@@ -6,3 +6,6 @@
 
 2. 1-compiler
 - e8e4888e5bddab603e5a
+
+3. 2-assembler
+- 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
