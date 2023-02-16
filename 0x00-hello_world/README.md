@@ -12,3 +12,6 @@
 
 4. 3-name
 - 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
+
+5. 4-puts.c
+- "Programming is like building a multilingual puzzle
