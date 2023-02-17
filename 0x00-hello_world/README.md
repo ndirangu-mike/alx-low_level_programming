@@ -15,3 +15,6 @@
 
 5. 4-puts.c
 - "Programming is like building a multilingual puzzle
+
+6. 5-printf.c
+-  a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line
