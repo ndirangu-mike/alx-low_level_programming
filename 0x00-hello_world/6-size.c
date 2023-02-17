@@ -3,7 +3,7 @@
 /**
  * main function of the program
  *
- * Description: print the size of the various data types
+ * Description: print the sizes of data types
  * Return: 0.
  */
 int main(void)
