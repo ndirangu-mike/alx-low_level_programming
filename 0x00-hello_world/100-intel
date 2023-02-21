@@ -1,6 +1,2 @@
 #!/bin/bash
-int main(void)
-{
-  printf( c s = $CFILE)
-  return (o)
-}
+gcc -S -masm=intel $CFILE -o ${CFILE//'.c'/'.s'}
