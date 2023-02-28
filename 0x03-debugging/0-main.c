@@ -1,6 +1,6 @@
 include "main.h"
 /**
- * test function positive or negative
+ * main - Test function positive or negative
  * Return: 0
  */
 
@@ -9,7 +9,7 @@ int main(void)
 	int i;
 
 	i = 0; 
-	positive or negative(i);
+	positive_or_negative(i);
 
  return (0);
 }
